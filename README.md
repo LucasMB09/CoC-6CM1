@@ -1,5 +1,7 @@
 # CoC-6CM1
 Cystems On Chip UwU
- \n Garcia Islas Asael
-Mora Bernal Macario
-Trejo Garcia Lizette
+<ol>
+ <li>Garcia Islas Asael<\li>
+ <li>Mora Bernal Macario<\li>
+ <li>Trejo Garcia Lizette<\li>
+<\ol>
